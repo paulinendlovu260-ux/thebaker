@@ -1,0 +1,120 @@
+h1 {
+	font-family:Arial Nova;
+	font-size:30px;
+	color:darksalmon;
+}
+
+p {
+	font-family:Arial,sans-serif;
+	font-size:20px;
+	color:green;
+
+}
+
+.footertext{
+	     color:green;
+	     font-style:italic;
+	     font-style:bold;
+	
+	
+}
+
+a:link {
+	color:white;
+	background-color:darksalmon;
+	padding:15px;
+	text-decoration:none;
+	
+}
+
+a:visited {
+	color:white;
+	background-color:darksalmon;
+	padding:15px;
+	text-decoration:none;
+	
+}
+
+a:hover {
+	color:white;
+	background-color:darksalmon;
+	padding:15px;
+	text-decoration:none;
+}
+
+a:active {
+	color:white;
+	background-color:darkgray;
+	padding:15px;
+	text-decoration:none;
+
+}
+
+img {
+	width:700px;
+	height:600px;
+	float:center-left;
+	padding-right:15px;
+}
+
+.logoimage {
+	width:150px;
+	height:90px;
+	padding:10px;
+}
+
+.menuprices {
+	display:grid;
+	justify-content:center;
+	align-content:center
+	height:80px;
+	
+}
+.menuprices img {
+	width:600px;
+	height:500px;
+	margin-right:20px;	
+}
+.menu-text{
+	display:flex;
+	justify-content:space between;
+	width:300px;
+	
+
+	
+}
+
+
+.navbar {
+	background-color:darksalmon;
+	height:60px;
+    display:flex;	
+}
+
+
+body{
+	 font-family:sans-serif;
+     padding-top:60px;
+     	 
+}	
+	
+header {
+	height:90px;
+	background-color:lightgray;
+	
+}
+h1{
+	text-align:centre;
+}
+	
+footer{
+	background-color:lightgray;
+	color:green;
+	text-align:centre;
+	padding:15px;
+	
+}
+.footertext{
+	margin:15px;
+	
+}
